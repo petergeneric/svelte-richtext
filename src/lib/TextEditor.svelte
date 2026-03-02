@@ -1,4 +1,4 @@
-<script module>
+<script module lang="ts">
     import type { TableOfContentData } from '@tiptap/extension-table-of-contents';
     import { writable } from 'svelte/store';
 
