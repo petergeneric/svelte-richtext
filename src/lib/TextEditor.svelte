@@ -38,11 +38,9 @@
     import Focus from '@tiptap/extension-focus';
     import FontFamily from '@tiptap/extension-font-family';
     import { HardBreak } from '@tiptap/extension-hard-break';
-    import { Heading } from '@tiptap/extension-heading';
-    // import HardBreak from '@tiptap/extension-hard-break';
+    import { Heading } from '@tiptap/extension-heading'
     import Highlight from '@tiptap/extension-highlight';
     import { HorizontalRule } from '@tiptap/extension-horizontal-rule';
-    // import Link from '@tiptap/extension-link';
     import Image from '@tiptap/extension-image';
     import InvisibleCharacters from '@tiptap/extension-invisible-characters';
     import { Italic } from '@tiptap/extension-italic';
