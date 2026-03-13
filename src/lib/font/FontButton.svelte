@@ -9,7 +9,7 @@
         useEditableContext
     } from '$lib';
     import { Tooltip, Dropdown, DropdownItem } from 'flowbite-svelte';
-    import { type FontButtonProps } from '$lib/types';
+    import type { FontButtonProps } from '$lib/types';
 
     let {
         editor,

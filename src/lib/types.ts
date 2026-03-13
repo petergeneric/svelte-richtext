@@ -52,7 +52,7 @@ import type { PlaceholderOptions } from '@tiptap/extensions';
 import type { SelectionOptions } from '@tiptap/extensions';
 import type { TrailingNodeOptions } from '@tiptap/extensions';
 import type { UndoRedoOptions } from '@tiptap/extensions';
-import { type ClassValue } from 'clsx';
+import type { ClassValue } from 'clsx';
 import type { Snippet } from 'svelte';
 import type { HTMLButtonAttributes, HTMLAttributes } from 'svelte/elements';
 

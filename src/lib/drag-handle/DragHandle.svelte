@@ -1,5 +1,5 @@
 <script lang="ts">
-    import { type DragHandleProps } from '$lib';
+    import type { DragHandleProps } from '$lib';
     import type { Editor } from '@tiptap/core';
     import { DragHandlePlugin, dragHandlePluginDefaultKey } from '@tiptap/extension-drag-handle';
     import type { Node } from '@tiptap/pm/model';

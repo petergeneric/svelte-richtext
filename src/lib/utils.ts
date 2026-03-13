@@ -1,4 +1,4 @@
-import { type BubbleMenuConfig, type FloatingMenuConfig } from '$lib';
+import type { BubbleMenuConfig, FloatingMenuConfig } from '$lib';
 import { clsx, type ClassValue } from 'clsx';
 import { twMerge } from 'tailwind-merge';
 
